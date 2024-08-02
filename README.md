@@ -1,7 +1,7 @@
 # Neural-Operator-induced-Gaussian-Process-NOGaP
 
 ## Description
-This repository contains the implementation code for the paper "Neural Operator induced Gaussian Process for Probabilistic Solution of Parametric Partial Differential Equations" [here](https://arxiv.org/html/2404.15618v1). 
+This repository contains the implementation code for the paper "Neural Operator Induced Gaussian Process for Probabilistic Solution of Parametric Partial Differential Equations" [here](https://arxiv.org/html/2404.15618v1). 
 
 ## Folders & Files
 The repository is organized as follows:
@@ -21,7 +21,7 @@ Before running the code, ensure you have the following installed:
 ### Installation
 Clone the repository and install the required Python packages:
 ```bash
-git clone https://github.com/savnkr/Neural-Operator-induced-Gaussian-Process-NOGaP-.git
+git clone https://github.com/csccm-iitd/NOGaP.git
 cd your-repository-name
 pip install -r requirements.txt
 ```
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 
 ## BibTex
-If you use any part our codes, please cite us at,
+If you use any part of our codes, please cite us at,
 ```
 @article{kumar2024neural,
   title={Neural Operator induced Gaussian Process framework for probabilistic solution of parametric partial differential equations},
